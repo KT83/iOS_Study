@@ -1,5 +1,25 @@
 # iOS勉強会
 
+## 最終課題
+
+- [最終課題について](最終課題)
+
+## 教科書 (これと公式ドキュメントで進める)
+- [mixiの社内トレーニング資料](https://github.com/mixi-inc/iOSTraining) <- メインはこれ！  
+
+- [はてなのインターン生用テキスト](https://github.com/hatena/Hatena-Textbook/blob/master/ios-app-development-with-web-api.md)
+
+## わかりにくそうなとこ追加解説
+
+- [BlockとGCDについて](BlockとGCD)
+
+- [NavigationControllerのところ](NavigationController追加解説)
+
+- [NSIntegerのフォーマット指定子のお話](http://d.hatena.ne.jp/unk_pizza/20140515/p1)
+
+- 6.4の演習：リンクを次に変更 "http://www.flickr.com/services/feeds/photos_public.gne?format=json&nojsoncallback=1&lang=en
+"
+
 ## 身につけるべきスキル
 - ネイティブ開発
 	- Objective-C + UIKit (優先度高い順になんとなくリストアップ)
@@ -18,22 +38,6 @@
 
 - Git
 
-## 教科書 (これと公式ドキュメントで進める)
-- [mixiの社内トレーニング資料](https://github.com/mixi-inc/iOSTraining) <- メインはこれ！  
-
-- [はてなのインターン生用テキスト](https://github.com/hatena/Hatena-Textbook/blob/master/ios-app-development-with-web-api.md)
-
-## わかりにくそうなとこ追加解説
-
-- [BlockとGCDについて](BlockとGCD)
-
-- [NavigationControllerのところ](NavigationController追加解説)
-
-## 発表形式
-- 1人1テーマで教科書を読み込み，解説資料とサンプルコード(丸写し禁止)を作る．
-- 解説資料はSlideShareもしくはwikiで，サンプルコードはgithubで共有．
-- 5月中に開発できるスキルを身につけちゃう！
-- タイムアタックなんかもおもしろいかもね(TableViewとか頻繁に使うやつは)
 
 ## 番外編：サービスアイデアについて
 - [サービス開発の全体観に関する記事](http://growthhack.vasily.jp/2015/01/startup-roadmap/)
